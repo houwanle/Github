@@ -39,10 +39,10 @@ int c = a+b;
 下面是一个参考链接的示例：
 
 [链接到百度][1]
-[链接到Google][2]  
+[链接到Google][2]
 [还是链接到百度][1]
 
-[1]:https://www.baidu.com  
+[1]:https://www.baidu.com
 [2]:https://www.google.com
 
 参考链接中的标号1,2不仅仅可以是数字，也可以是字母或它们的组合。
@@ -72,7 +72,7 @@ Git中的Markdown语法扩展中包括了一些表情包。这个表情包语法
 表格同样不是标准的Markdown语法，使用MarkdownPad不会对该格式进行渲染。
 形式一：
 
-|表头一|表头二|  
+|表头一|表头二|
 |------|---|
 |内容一|内容二|
 |内容三|内容四|
@@ -89,6 +89,6 @@ Git中的Markdown语法扩展中包括了一些表情包。这个表情包语法
 同样对于第二列中的空格数没有要求，但至少要有一个-。
 
 
-![GitHub Logo](./Octocat.jpg "Octocat.jpg")  
+![GitHub Logo](../images/Octocat.jpg "Octocat.jpg")
 
 引号内的内容为鼠标悬停的时候显示的内容，和链接一样可以不用。中括号[]中的内容为找不到图片时的替代文字。
